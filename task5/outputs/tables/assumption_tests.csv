@@ -1,0 +1,3 @@
+test,statistic,p_value,interpretation
+Breusch-Pagan,1764.0379827380627,7.37050717112e-312,Small p-value indicates evidence of non-constant residual variance.
+Shapiro-Wilk,0.7896428810143818,1.5141763829496702e-62,Small p-value indicates departure from normality of residuals.
