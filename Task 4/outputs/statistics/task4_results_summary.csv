@@ -1,0 +1,12 @@
+test,p_value
+Welch t-test: gender,1.0217040468931537e-12
+Wilcoxon: gender,9.22052782943539e-19
+Levene: tenure,3.0290022894318493e-4
+Proportion test: outlier rate by gender,3.1915990791273944e-5
+Chi-square: outlier rate by gender,3.191599079127393e-5
+Standard ANOVA: socio-economic class,9.53309934271084e-76
+Welch ANOVA: socio-economic class,8.884498870787911e-62
+Kruskal-Wallis: socio-economic class,9.704355550814003e-95
+Welch ANOVA: education,3.4456502737453846e-41
+Standard ANOVA: education,6.381368390482627e-64
+Kruskal-Wallis: education,1.0039273447771414e-75
